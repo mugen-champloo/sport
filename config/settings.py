@@ -85,11 +85,11 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'dauto816p02825',
-        'USER': 'inpucukyksztds',
-        'PASSWORD': '964122ce2e182635b942e5154f84ae5bc197cbaa6951e628faccbf373814845a',
-        'HOST': 'ec2-54-243-32-226.compute-1.amazonaws.com',
-        'PORT': '5432',       # Порт PostgreSQL сервера (по умолчанию 5432)
+        'NAME': 'dau1c8kkqu5g3i',
+        'USER': 'kmyurobomgebza',
+        'PASSWORD': 'cfc08978b473fb9dca6df7b18259d17d1db0a7f53310505dc54f1dd46f3babcb',
+        'HOST': 'ec2-54-163-217-185.compute-1.amazonaws.com',
+        'PORT': '5432',  
     }
 }
 
