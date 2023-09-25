@@ -1,1 +1,1 @@
-web: gunicorn appkel.wsgi
+web: gunicorn config.wsgi
